@@ -1,0 +1,64 @@
+{
+  "cash": 126470,
+  "holdings": {
+    "102110": {
+      "shares": 238,
+      "avg_price": 90840,
+      "name": "TIGER 200"
+    },
+    "069500": {
+      "shares": 237,
+      "avg_price": 90890,
+      "name": "KODEX 200"
+    },
+    "266410": {
+      "shares": 4271,
+      "avg_price": 9880,
+      "name": "KODEX 증권"
+    },
+    "229200": {
+      "shares": 720,
+      "avg_price": 20160,
+      "name": "KODEX 코스닥150"
+    }
+  },
+  "trades": [
+    {
+      "type": "BUY",
+      "ticker": "102110",
+      "name": "TIGER 200",
+      "shares": 238,
+      "price": 90840,
+      "amount": 21619920,
+      "date": "2026-02-25T13:22:20.703524"
+    },
+    {
+      "type": "BUY",
+      "ticker": "069500",
+      "name": "KODEX 200",
+      "shares": 237,
+      "price": 90890,
+      "amount": 21540930,
+      "date": "2026-02-25T13:22:21.443904"
+    },
+    {
+      "type": "BUY",
+      "ticker": "266410",
+      "name": "KODEX 증권",
+      "shares": 4271,
+      "price": 9880,
+      "amount": 42197480,
+      "date": "2026-02-25T13:22:22.205455"
+    },
+    {
+      "type": "BUY",
+      "ticker": "229200",
+      "name": "KODEX 코스닥150",
+      "shares": 720,
+      "price": 20160,
+      "amount": 14515200,
+      "date": "2026-02-25T13:22:22.955870"
+    }
+  ],
+  "created": "2026-02-25T13:22:15.711497"
+}

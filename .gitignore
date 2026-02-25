@@ -1,0 +1,11 @@
+# 민감 정보 제외
+config.py
+.token_cache.json
+__pycache__/
+*.pyc
+
+# 추적할 파일들만 포함
+# TRADING_JOURNAL.md  ✅
+# portfolio.json      ✅
+# trading_log.txt     ✅
+# strategy_plan.json  ✅
