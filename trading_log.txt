@@ -336,3 +336,5 @@
  3 files changed, 295 insertions(+), 99 deletions(-)
 [main 8f33905] [🟡 뉴스/SNS 감성 매수] 2026-02-26 — KODEX 200, PLUS K방산, TIGER 200
  2 files changed, 77 insertions(+)
+[main a0b84ce] [🔴 스캘핑 매수] 2026-02-26 — KODEX 코스닥150
+ 2 files changed, 27 insertions(+)
